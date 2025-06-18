@@ -1,1 +1,1 @@
-echo ".env" >> .gitignore.DS_Store
+.env
