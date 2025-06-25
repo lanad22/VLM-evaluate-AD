@@ -11,6 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+'''
 PROMPT_FOR_EVALUATION = """
 **ROLE:** You are an expert Accessibility Consultant specializing in the quality assurance of audio description (AD) for video content.
 
@@ -44,6 +45,34 @@ The JSON object should have the following structure:
   }}
 }}
 """
+'''
+
+PROMPT_FOR_EVALUATION = """
+ROLE: 
+You are an expert content evaluator specializing in audio descriptions.
+
+INPUT:
+A video file.
+JSON data with original dialog and human-authored AD:
+{json_data}.
+
+SCALE (1–5):
+1 = very poor, 2 = poor, 3 = acceptable, 4 = good, 5 = exemplary.
+
+CATEGORIES & CRITERIA:
+Reads Text-on-Screen: Captures visible text accurately and at the right time. (If there is no on-screen text in the video, score = 5 with justification “no on-screen text present.”)
+Inline Track Quality: Effectiveness of short ADs placed during natural pauses. (Inline ADs are preferred over extended ones when they can convey the same info.)
+Extended Track Quality: Effectiveness of longer ADs inserted into pauses or gaps.
+Balance of Inline and Extended: Optimal mix of brief (preferred) and in-depth AD.
+Track Placement: Narration is well-timed and does not overlap original video dialog or music.
+
+EVALUATION SUMMARY: 
+Overall Quality Rating: A rating from 1 to 5, where 1 is poor and 5 is excellent.,
+Strengths: A brief summary of what was done well.,
+Areas for improvement": A brief summary of what could be improved.
+    
+"""
+
 
 def wait_for_file_to_be_active(file) -> bool:
     print(f"Waiting for file '{file.display_name}' to be processed...")
