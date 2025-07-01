@@ -1,0 +1,287 @@
+{
+  "dialogue_timestamps": [
+    {
+      "start_time": 0.14,
+      "end_time": 4.7,
+      "duration": 4.66,
+      "audio_text": "I hate to do this to you, but I think you can help me pick up the slack on those edges catches. No problem",
+      "sequence_num": 1
+    },
+    {
+      "start_time": 4.8,
+      "end_time": 9.5,
+      "duration": 4.8,
+      "audio_text": "I appreciate it, but he's killing me. I only got lum lum and choo-choo pulling doubles",
+      "sequence_num": 2
+    },
+    {
+      "start_time": 10.28,
+      "end_time": 13.32,
+      "duration": 3.14,
+      "audio_text": "Quick thinking yesterday with that special talents thing",
+      "sequence_num": 3
+    },
+    {
+      "start_time": 13.847166666666666,
+      "end_time": 16.187166666666666,
+      "duration": 2.44,
+      "audio_text": "I feel bad for the guy. I just hope he doesn't get wise.",
+      "sequence_num": 4
+    },
+    {
+      "start_time": 16.76675,
+      "end_time": 19.326749999999997,
+      "duration": 2.66,
+      "audio_text": "Well, he hasn't figured out he's a human by now.",
+      "sequence_num": 5
+    },
+    {
+      "start_time": 19.76975,
+      "end_time": 20.76975,
+      "duration": 1.1,
+      "audio_text": "I don't think he ever will.",
+      "sequence_num": 6
+    },
+    {
+      "start_time": 26.316666666666666,
+      "end_time": 29.836666666666666,
+      "duration": 3.62,
+      "audio_text": "If he hasn't figured out he's a human by now, I don't think he ever will.",
+      "sequence_num": 7
+    },
+    {
+      "start_time": 32.240541666666665,
+      "end_time": 33.200541666666666,
+      "duration": 1.06,
+      "audio_text": "I think they're too small.",
+      "sequence_num": 8
+    },
+    {
+      "start_time": 36.452083333333334,
+      "end_time": 39.65208333333333,
+      "duration": 3.3,
+      "audio_text": "You just special.",
+      "sequence_num": 9
+    },
+    {
+      "start_time": 58.437041666666666,
+      "end_time": 60.95704166666666,
+      "duration": 2.62,
+      "audio_text": "You don't look so good, buddy. Are you okay?",
+      "sequence_num": 10
+    },
+    {
+      "start_time": 61.72833333333333,
+      "end_time": 63.50833333333333,
+      "duration": 1.88,
+      "audio_text": "I'll be okay. I just need a glass of water.",
+      "sequence_num": 11
+    }
+  ],
+  "audio_clips": [
+    {
+      "scene_number": 1,
+      "text": "Two elves in red outfits are talking in Santa's workshop, with shelves full of toys behind them. Buddy watches them from above.",
+      "type": "Visual",
+      "start_time": 0.0,
+      "end_time": 0.0,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 1,
+      "text": "Buddy eavesdrops on the two elves, listening intently to their conversation.",
+      "type": "Visual",
+      "start_time": 7.0,
+      "end_time": 7.0,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 2,
+      "text": "MOVIECLIPS.COM",
+      "type": "Text on Screen",
+      "start_time": 13.847166666666666,
+      "end_time": 13.847166666666666,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 2,
+      "text": "Buddy eavesdrops on two elves from his hiding spot above.",
+      "type": "Visual",
+      "start_time": 13.847166666666666,
+      "end_time": 13.847166666666666,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 3,
+      "text": "MOVIECLIPS.COM",
+      "type": "Text on Screen",
+      "start_time": 16.76675,
+      "end_time": 16.76675,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 3,
+      "text": "Two elves stand in Santa's workshop, holding mugs.",
+      "type": "Visual",
+      "start_time": 16.76675,
+      "end_time": 16.76675,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 3,
+      "text": "Buddy looks concerned.",
+      "type": "Visual",
+      "start_time": 18.936749999999996,
+      "end_time": 18.936749999999996,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 4,
+      "text": "Buddy hides, worried.",
+      "type": "Visual",
+      "start_time": 20.86975,
+      "end_time": 22.81375,
+      "track_type": "inline"
+    },
+    {
+      "scene_number": 5,
+      "text": "MOVIECLIPS.COM",
+      "type": "Text on Screen",
+      "start_time": 23.356666666666666,
+      "end_time": 23.356666666666666,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 5,
+      "text": "Buddy reacts with a surprised expression to the overheard conversation.",
+      "type": "Visual",
+      "start_time": 23.356666666666666,
+      "end_time": 23.356666666666666,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 5,
+      "text": "Buddy watches Peter.",
+      "type": "Visual",
+      "start_time": 29.936666666666667,
+      "end_time": 31.712666666666667,
+      "track_type": "inline"
+    },
+    {
+      "scene_number": 6,
+      "text": "Elf boot, worried Buddy.",
+      "type": "Visual",
+      "start_time": 33.30054166666667,
+      "end_time": 35.58054166666667,
+      "track_type": "inline"
+    },
+    {
+      "scene_number": 7,
+      "text": "Buddy takes a shower in an elf-sized tub.",
+      "type": "Visual",
+      "start_time": 35.452083333333334,
+      "end_time": 35.452083333333334,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 7,
+      "text": "Buddy puts on an elf hat.",
+      "type": "Visual",
+      "start_time": 36.952083333333334,
+      "end_time": 36.952083333333334,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 7,
+      "text": "Fades to white.",
+      "type": "Visual",
+      "start_time": 39.75208333333333,
+      "end_time": 41.04808333333333,
+      "track_type": "inline"
+    },
+    {
+      "scene_number": 8,
+      "text": "Buddy tosses, falls, climbs back.",
+      "type": "Visual",
+      "start_time": 43.043,
+      "end_time": 46.379,
+      "track_type": "inline"
+    },
+    {
+      "scene_number": 9,
+      "text": "Santa, elves.",
+      "type": "Visual",
+      "start_time": 46.671625,
+      "end_time": 48.471624999999996,
+      "track_type": "inline"
+    },
+    {
+      "scene_number": 10,
+      "text": "In an old photo, Buddy plays basketball with elves as a jack-in-the-box plays nearby.  Peter Billingsley looks up, smiling.",
+      "type": "Visual",
+      "start_time": 48.757041666666666,
+      "end_time": 58.33304166666667,
+      "track_type": "inline"
+    },
+    {
+      "scene_number": 11,
+      "text": "Buddy stands in Santa's workshop",
+      "type": "Visual",
+      "start_time": 61.72833333333333,
+      "end_time": 61.72833333333333,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 11,
+      "text": "An elf speaks to Buddy",
+      "type": "Visual",
+      "start_time": 61.72833333333333,
+      "end_time": 61.72833333333333,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 11,
+      "text": "An elf speaks to Ming Ming as Buddy watches.",
+      "type": "Visual",
+      "start_time": 63.608333333333334,
+      "end_time": 63.608333333333334,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 13,
+      "text": "MOVIECLIPS.COM",
+      "type": "Text on Screen",
+      "start_time": 93.67691666666666,
+      "end_time": 95.71691666666666,
+      "track_type": "inline"
+    },
+    {
+      "scene_number": 13,
+      "text": "Buddy looks concerned",
+      "type": "Visual",
+      "start_time": 95.75691666666665,
+      "end_time": 95.75691666666665,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 13,
+      "text": "An elf whispers to another",
+      "type": "Visual",
+      "start_time": 96.03691666666666,
+      "end_time": 96.03691666666666,
+      "track_type": "extended"
+    },
+    {
+      "scene_number": 13,
+      "text": "Buddy gasps",
+      "type": "Visual",
+      "start_time": 97.07691666666666,
+      "end_time": 97.07691666666666,
+      "track_type": "extended"
+    }
+  ],
+  "youtube_id": "dJU1SZIfK3Y",
+  "video_name": "Elf (1/5) Movie CLIP - Buddy Realizes He's Human (2003) HD",
+  "video_length": 98,
+  "aiUserId": "6845e4375506faa0752b8d62"
+}

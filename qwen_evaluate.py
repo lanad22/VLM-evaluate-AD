@@ -11,11 +11,10 @@ import torch
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor, BitsAndBytesConfig
 from qwen_vl_utils import process_vision_info
 
-# --- PROMPT DEFINITION ---
 PROMPT_FOR_EVALUATION = """
-**ROLE:** You are an expert Accessibility Consultant specializing in the quality assurance of audio description (AD) for video content.
+ROLE: You are an expert Accessibility Consultant specializing in the quality assurance of audio description (AD) for video content.
 
-**CONTEXT:** I am providing you with two assets:
+CONTEXT: I am providing you with two assets:
 1.  A video file.
 2.  The structured JSON data of the existing audio description, which is included below.
 
@@ -24,11 +23,21 @@ PROMPT_FOR_EVALUATION = """
 {json_data}
 ```
 
-**TASK:** Analyze the video and the JSON data to evaluate the quality of the audio description track.
+TASK: Analyze the video and the JSON data to evaluate the quality of the audio description track.
 
-**OUTPUT FORMAT:**
+SCALE (1–5):
+1 = very poor, 2 = poor, 3 = acceptable, 4 = good, 5 = exemplary.
+
+CATEGORIES & CRITERIA:
+Reads Text-on-Screen: Captures visible text accurately and at the right time. (If there is no on-screen text in the video, score = 5 with justification “no on-screen text present.”)
+Inline Track Quality: Effectiveness of short ADs placed during natural pauses. (Inline ADs are preferred over extended ones when they can convey the same info.)
+Extended Track Quality: Effectiveness of longer ADs inserted into pauses or gaps.
+Strategic AD Type Selection: Optimal mix of brief (preferred) and in-depth AD.
+Track Placement: Narration is well-timed and does not overlap original video dialog or music.
+
+
+OUTPUT FORMAT:
 You MUST return your response as a single, valid JSON object. Do not include any text, notes, or markdown formatting before or after the JSON block.
-
 The JSON object should have the following structure:
 {{
   "evaluation_summary": {{
@@ -37,11 +46,11 @@ The JSON object should have the following structure:
     "areas_for_improvement": "A brief summary of what could be improved."
   }},
   "criteria_ratings": {{
-    "reads_text_on_screen": {{ "rating": "1-5", "justification": "Captures visible text accurately and at the right time." }},
-    "inline_track_quality": {{ "rating": "1-5", "justification": "Effectiveness of short ADs placed during natural pauses." }},
-    "extended_track_quality": {{ "rating": "1-5", "justification": "Effectiveness of longer ADs inserted into pauses or gaps." }},
-    "balance_of_inline_and_extended": {{ "rating": "1-5", "justification": "Optimal mix of brief and in-depth descriptions." }},
-    "track_placement": {{ "rating": "1-5", "justification": "Narration is well-timed and does not conflict with dialogue or music." }}
+    "Reads Text-on-Screen": {{ "rating": "1-5", "justification": "..." }},
+    "Inline Track Quality": {{ "rating": "1-5", "justification": "..."}},
+    "Extended Track Quality": {{ "rating": "1-5", "justification": "..." }},
+    "strategic_AD_type_selection": {{ "rating": "1-5", "justification": "..."}},
+    "track_placement": {{ "rating": "1-5", "justification": "..." }}
   }}
 }}
 """

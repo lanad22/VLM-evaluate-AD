@@ -1,0 +1,339 @@
+[
+  {
+    "scene_number": 1,
+    "start_time": 0.0,
+    "end_time": 2.04,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 1,
+    "start_time": 0.0,
+    "end_time": 6.504,
+    "duration": 6.504,
+    "type": "Visual",
+    "text": "Two elves in red suits chat while holding cups. They stand in front of shelves with toys.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 1,
+    "start_time": 7.0,
+    "end_time": 10.768,
+    "duration": 3.768,
+    "type": "Visual",
+    "text": "Camera pans out to show Buddy peeking down from above.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 2,
+    "start_time": 13.847166666666666,
+    "end_time": 15.887166666666666,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 2,
+    "start_time": 13.847166666666666,
+    "end_time": 16.559166666666666,
+    "duration": 2.712,
+    "type": "Visual",
+    "text": "Buddy peeks between wooden beams.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 3,
+    "start_time": 16.76675,
+    "end_time": 18.806749999999997,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 3,
+    "start_time": 16.76675,
+    "end_time": 30.83075,
+    "duration": 14.064,
+    "type": "Visual",
+    "text": "Two elves stand in workshop. They wear red suits with white fur. Elf on left holds mug. Elf on right sips from cup. Both look serious. Behind them, shelves hold toys.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 4,
+    "text": "\"Buddy peeks, listens, hides.\"",
+    "type": "Visual",
+    "duration": 2.88,
+    "fits_in_gap": false,
+    "original_texts": [
+      "Buddy peeks through small gap in wooden wall, eyes wide.",
+      "Buddy's head disappears behind wood as he listens."
+    ],
+    "start_time": 20.86975,
+    "end_time": 23.74975
+  },
+  {
+    "scene_number": 5,
+    "start_time": 23.356666666666666,
+    "end_time": 25.396666666666665,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 5,
+    "start_time": 23.356666666666666,
+    "end_time": 26.308666666666667,
+    "duration": 2.952,
+    "type": "Visual",
+    "text": "Buddy stands in room with wood walls.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 5,
+    "start_time": 26.856666666666666,
+    "end_time": 29.544666666666664,
+    "duration": 2.688,
+    "type": "Visual",
+    "text": "Buddy looks around with wide eyes.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 5,
+    "text": "Buddy quickly bends down.",
+    "type": "Visual",
+    "duration": 2.016,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Buddy bends down fast."
+    ],
+    "start_time": 29.936666666666667,
+    "end_time": 31.952666666666666
+  },
+  {
+    "scene_number": 6,
+    "text": "\"Buddy confused, turns to orange elf.\"",
+    "type": "Visual",
+    "duration": 3.312,
+    "fits_in_gap": false,
+    "original_texts": [
+      "Buddy, in green elf outfit, stands indoors. His face shows confusion.",
+      "Buddy turns to look at another elf wearing orange clothes holding scissors."
+    ],
+    "start_time": 33.30054166666667,
+    "end_time": 36.612541666666665
+  },
+  {
+    "scene_number": 7,
+    "start_time": 35.452083333333334,
+    "end_time": 37.49208333333333,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 7,
+    "start_time": 35.452083333333334,
+    "end_time": 41.04408333333333,
+    "duration": 5.592,
+    "type": "Visual",
+    "text": "Buddy sits in small tub. Steam fills room. Buddy looks confused.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 7,
+    "start_time": 36.952083333333334,
+    "end_time": 40.45608333333333,
+    "duration": 3.504,
+    "type": "Visual",
+    "text": "Buddy rubs arm. He feels skin texture.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 7,
+    "text": "\"Buddy spins, shocked, whispers.\"",
+    "type": "Visual",
+    "duration": 3.216,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Buddy turns head sharply. Surprise crosses face.",
+      "Buddy leans forward in tub. He speaks to self softly."
+    ],
+    "start_time": 39.75208333333333,
+    "end_time": 42.96808333333333
+  },
+  {
+    "scene_number": 8,
+    "text": "Buddy jumps out of bed, falls down.",
+    "type": "Visual",
+    "duration": 2.952,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Buddy lies in small bed, then springs up.",
+      "Buddy falls off bed onto floor."
+    ],
+    "start_time": 43.043,
+    "end_time": 45.995
+  },
+  {
+    "scene_number": 9,
+    "start_time": 46.671625,
+    "end_time": 48.711625,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 9,
+    "start_time": 46.671625,
+    "end_time": 51.831625,
+    "duration": 5.16,
+    "type": "Visual",
+    "text": "Buddy stands in old photo with tiny elves. Frame shakes slightly.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 10,
+    "text": "\"Buddy shocked by clown.\"",
+    "type": "Visual",
+    "duration": 1.896,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Buddy holds photo with tiny elves. He stares at clown toy. Buddy looks shocked."
+    ],
+    "start_time": 48.757041666666666,
+    "end_time": 50.65304166666667
+  },
+  {
+    "scene_number": 10,
+    "start_time": 50.757041666666666,
+    "end_time": 52.797041666666665,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 11,
+    "start_time": 61.72833333333333,
+    "end_time": 67.68033333333334,
+    "duration": 5.952,
+    "type": "Visual",
+    "text": "Buddy stands in elf workshop. He wears green outfit. Buddy looks confused.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 11,
+    "text": "Elf talks; another makes bears.",
+    "type": "Visual",
+    "duration": 3.096,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Orange-clad elf turns to face Buddy. He speaks while gesturing with hands.",
+      "Blue-capped elf works on teddy bears. He sits at table, focused on task."
+    ],
+    "start_time": 63.608333333333334,
+    "end_time": 66.70433333333334
+  },
+  {
+    "scene_number": 12,
+    "start_time": 67.23383333333332,
+    "end_time": 76.54583333333332,
+    "duration": 9.312,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM\nWATCH HOTTRAILERS!\nclick below to watch related movie clips"
+  },
+  {
+    "scene_number": 12,
+    "start_time": 67.23383333333332,
+    "end_time": 71.24183333333332,
+    "duration": 4.008,
+    "type": "Visual",
+    "text": "Buddy lies flat on floor in elf costume, shocked.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 12,
+    "start_time": 74.23383333333332,
+    "end_time": 80.95383333333332,
+    "duration": 6.72,
+    "type": "Text on Screen",
+    "text": "ACTOR\nWill Ferrell\nACTOR\nPeter Billingsley\nDIRECTOR\nJon Favreau"
+  },
+  {
+    "scene_number": 12,
+    "start_time": 74.23383333333332,
+    "end_time": 78.74583333333332,
+    "duration": 4.512,
+    "type": "Visual",
+    "text": "Scene transitions to black screen with movie credits scrolling up.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 12,
+    "start_time": 81.23383333333332,
+    "end_time": 87.97783333333332,
+    "duration": 6.744,
+    "type": "Text on Screen",
+    "text": "GENRE\nChildren & Family\nBEST OF THE BEST\nHilarious!\nACTION\nFall"
+  },
+  {
+    "scene_number": 12,
+    "start_time": 81.23383333333332,
+    "end_time": 85.57783333333333,
+    "duration": 4.344,
+    "type": "Visual",
+    "text": "Black screen continues with genre and action labels appearing.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 12,
+    "start_time": 88.23383333333332,
+    "end_time": 94.25783333333332,
+    "duration": 6.024,
+    "type": "Text on Screen",
+    "text": "OCCASION\nChristmas\nCHARACTER TYPE\nLittle Person\nTHEME\nTruth"
+  },
+  {
+    "scene_number": 12,
+    "start_time": 88.23383333333332,
+    "end_time": 93.22583333333333,
+    "duration": 4.992,
+    "type": "Visual",
+    "text": "Black screen displays occasion, character type, and theme details.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 12,
+    "start_time": 93.23383333333332,
+    "end_time": 100.98583333333332,
+    "duration": 7.752,
+    "type": "Text on Screen",
+    "text": "watch\nMOVIECLIPS MASHUPS\nplay\nMOVIECLIPS GAMES\nenjoy\nMOVIECLIPS SHOWS"
+  },
+  {
+    "scene_number": 12,
+    "start_time": 93.23383333333332,
+    "end_time": 97.31383333333332,
+    "duration": 4.08,
+    "type": "Visual",
+    "text": "Final black screen lists movie clips website features.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 13,
+    "start_time": 93.67691666666666,
+    "end_time": 95.71691666666666,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 13,
+    "start_time": 93.67691666666666,
+    "end_time": 95.57291666666666,
+    "duration": 1.896,
+    "type": "Visual",
+    "text": "Screen fades to black.",
+    "fits_in_gap": false
+  }
+]

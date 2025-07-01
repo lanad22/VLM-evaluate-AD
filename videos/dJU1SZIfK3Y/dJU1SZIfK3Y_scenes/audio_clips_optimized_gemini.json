@@ -1,0 +1,255 @@
+[
+  {
+    "scene_number": 1,
+    "start_time": 0.0,
+    "end_time": 8.832,
+    "duration": 8.832,
+    "type": "Visual",
+    "text": "Two elves in red outfits are talking in Santa's workshop, with shelves full of toys behind them. Buddy watches them from above.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 1,
+    "start_time": 7.0,
+    "end_time": 12.664,
+    "duration": 5.664,
+    "type": "Visual",
+    "text": "Buddy eavesdrops on the two elves, listening intently to their conversation.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 2,
+    "start_time": 13.847166666666666,
+    "end_time": 15.887166666666666,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 2,
+    "start_time": 13.847166666666666,
+    "end_time": 17.927166666666665,
+    "duration": 4.08,
+    "type": "Visual",
+    "text": "Buddy eavesdrops on two elves from his hiding spot above.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 3,
+    "start_time": 16.76675,
+    "end_time": 18.806749999999997,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 3,
+    "start_time": 16.76675,
+    "end_time": 20.72675,
+    "duration": 3.96,
+    "type": "Visual",
+    "text": "Two elves stand in Santa's workshop, holding mugs.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 3,
+    "start_time": 18.936749999999996,
+    "end_time": 20.68875,
+    "duration": 1.752,
+    "type": "Visual",
+    "text": "Buddy looks concerned.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 4,
+    "text": "Buddy hides, worried.",
+    "type": "Visual",
+    "duration": 1.944,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Buddy hides and eavesdrops on a conversation between two elves.",
+      "Buddy looks concerned."
+    ],
+    "start_time": 20.86975,
+    "end_time": 22.81375
+  },
+  {
+    "scene_number": 5,
+    "start_time": 23.356666666666666,
+    "end_time": 25.396666666666665,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 5,
+    "start_time": 23.356666666666666,
+    "end_time": 28.180666666666667,
+    "duration": 4.824,
+    "type": "Visual",
+    "text": "Buddy reacts with a surprised expression to the overheard conversation.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 5,
+    "text": "Buddy watches Peter.",
+    "type": "Visual",
+    "duration": 1.776,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Buddy looks down at Peter Billingsley, who is working on an elf's shoe."
+    ],
+    "start_time": 29.936666666666667,
+    "end_time": 31.712666666666667
+  },
+  {
+    "scene_number": 6,
+    "text": "Elf boot, worried Buddy.",
+    "type": "Visual",
+    "duration": 2.28,
+    "fits_in_gap": false,
+    "original_texts": [
+      "Buddy looks concerned.",
+      "An elf shows a small black boot to another elf."
+    ],
+    "start_time": 33.30054166666667,
+    "end_time": 35.58054166666667
+  },
+  {
+    "scene_number": 7,
+    "start_time": 35.452083333333334,
+    "end_time": 38.668083333333335,
+    "duration": 3.216,
+    "type": "Visual",
+    "text": "Buddy takes a shower in an elf-sized tub.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 7,
+    "start_time": 36.952083333333334,
+    "end_time": 39.064083333333336,
+    "duration": 2.112,
+    "type": "Visual",
+    "text": "Buddy puts on an elf hat.",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 7,
+    "text": "Fades to white.",
+    "type": "Visual",
+    "duration": 1.296,
+    "fits_in_gap": true,
+    "original_texts": [
+      "The scene transitions to white."
+    ],
+    "start_time": 39.75208333333333,
+    "end_time": 41.04808333333333
+  },
+  {
+    "scene_number": 8,
+    "text": "Buddy tosses, falls, climbs back.",
+    "type": "Visual",
+    "duration": 3.336,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Buddy sleeps restlessly across two small beds in a brightly lit bedroom.",
+      "He rolls over and falls to the floor.",
+      "He climbs back onto one of the beds."
+    ],
+    "start_time": 43.043,
+    "end_time": 46.379
+  },
+  {
+    "scene_number": 9,
+    "text": "Santa, elves.",
+    "type": "Visual",
+    "duration": 1.8,
+    "fits_in_gap": true,
+    "original_texts": [
+      "An old photograph shows Santa with a group of elves.",
+      "Buddy is not in the photo."
+    ],
+    "start_time": 46.671625,
+    "end_time": 48.471624999999996
+  },
+  {
+    "scene_number": 10,
+    "text": "In an old photo, Buddy plays basketball with elves as a jack-in-the-box plays nearby.  Peter Billingsley looks up, smiling.",
+    "type": "Visual",
+    "duration": 9.576,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Buddy is in an old photo, playing basketball with elves.",
+      "A jack-in-the-box plays in the foreground.",
+      "Peter Billingsley looks up and smiles."
+    ],
+    "start_time": 48.757041666666666,
+    "end_time": 58.33304166666667
+  },
+  {
+    "scene_number": 11,
+    "start_time": 61.72833333333333,
+    "end_time": 64.34433333333334,
+    "duration": 2.616,
+    "type": "Visual",
+    "text": "Buddy stands in Santa's workshop",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 11,
+    "start_time": 61.72833333333333,
+    "end_time": 63.72033333333333,
+    "duration": 1.992,
+    "type": "Visual",
+    "text": "An elf speaks to Buddy",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 11,
+    "text": "An elf speaks to Ming Ming as Buddy watches.",
+    "type": "Visual",
+    "duration": 3.432,
+    "fits_in_gap": true,
+    "original_texts": [
+      "Another elf speaks to Ming Ming",
+      "Buddy watches them"
+    ],
+    "start_time": 63.608333333333334,
+    "end_time": 67.04033333333334
+  },
+  {
+    "scene_number": 13,
+    "start_time": 93.67691666666666,
+    "end_time": 95.71691666666666,
+    "duration": 2.04,
+    "type": "Text on Screen",
+    "text": "MOVIECLIPS.COM"
+  },
+  {
+    "scene_number": 13,
+    "start_time": 95.75691666666665,
+    "end_time": 97.43691666666666,
+    "duration": 1.68,
+    "type": "Visual",
+    "text": "Buddy looks concerned",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 13,
+    "start_time": 96.03691666666666,
+    "end_time": 98.29291666666666,
+    "duration": 2.256,
+    "type": "Visual",
+    "text": "An elf whispers to another",
+    "fits_in_gap": false
+  },
+  {
+    "scene_number": 13,
+    "start_time": 97.07691666666666,
+    "end_time": 98.54091666666666,
+    "duration": 1.464,
+    "type": "Visual",
+    "text": "Buddy gasps",
+    "fits_in_gap": false
+  }
+]
